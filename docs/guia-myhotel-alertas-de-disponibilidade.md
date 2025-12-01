@@ -5,13 +5,7 @@ description: Neste guia, você vai aprender a configurar e editar alertas de dis
 slug: /
 ---
 
-![imagem-3](/assets/guia-myhotel-alertas-de-disponibilidade/imagem-3.webp)
-
-![imagem-1](/assets/guia-myhotel-alertas-de-disponibilidade/imagem-1.webp)
-
 # Tarifários e Disponibilidade: Alertas de Disponibilidade
-
-![imagem-2](/assets/guia-myhotel-alertas-de-disponibilidade/imagem-2.webp)
 
 Neste guia, você vai aprender a configurar e editar alertas de disponibilidade.
 
