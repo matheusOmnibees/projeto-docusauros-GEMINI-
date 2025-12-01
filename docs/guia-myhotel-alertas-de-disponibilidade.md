@@ -13,8 +13,6 @@ Neste guia, você vai aprender a configurar e editar alertas de disponibilidade.
 
 O caminho para acessar a aba de ‘alertas de disponibilidade’ é: **Menu de Navegação > Gestão > Tarifários e Disponibilidade > Alertas de Disponibilidade:**
 
-![imagem-5](/assets/guia-myhotel-alertas-de-disponibilidade/imagem-5.webp)
-
 ![imagem-4](/assets/guia-myhotel-alertas-de-disponibilidade/imagem-4.webp)
 
 Os **'Alertas de Disponibilidade'** permitem que os hotéis que não têm a conexão de atualização de inventário do PMS (Sistema de Gerenciamento do Hotel) conectada à Omnibees possam controlar a quantidade de quartos disponíveis no myhotel.omnibees com maior facilidade.
