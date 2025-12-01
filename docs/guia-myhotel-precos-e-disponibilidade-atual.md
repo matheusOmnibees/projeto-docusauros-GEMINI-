@@ -5,8 +5,6 @@ description: Neste guia, você vai aprender a realizar o cadastro ou a atualiza�
 slug: /
 ---
 
-![imagem-2](/assets/guia-myhotel-precos-e-disponibilidade-atual/imagem-2.webp)
-
 # Tarifários e Disponibilidade: Preços e Disponibilidade
 
 GUIA RÁPIDO
@@ -215,4 +213,3 @@ Para mais informações, contate: o nosso atendimento online CHAT - ou através 
 
 **Boas Vendas!!**
 
-![imagem-44](/assets/guia-myhotel-precos-e-disponibilidade-atual/imagem-44.webp)
