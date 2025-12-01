@@ -96,7 +96,7 @@ Após efetuar as pesquisas ou selecionar os filtros desejados, será possível e
 
 ### **FECHAMENTO/ABERTURA DE VENDAS**: fechar e abrir as vendas no ‘calendário de disponibilidade’, selecionando o dia ou o quarto:
 
-➤ **OPÇÃO 1 – POR DIA/PERÍODO:** clicando sobre o dia desejado, aparecerá uma “seta” apontando para abaixo (ao lado da informação de disponibilidade). Ao clicar nela, aparecerão as possibilidades de: ‘abrir todas as vendas’, ‘fechar todas as vendas’ e ‘abrir/fechar seletivo’.
+➤ **OPÇÃO 1 – POR DIA/PERÍODO:** clicando sobre o dia desejado, aparecerá uma “seta” apontando para baixo (ao lado da informação de disponibilidade). Ao clicar nela, aparecerão as possibilidades de: ‘abrir todas as vendas’, ‘fechar todas as vendas’ e ‘abrir/fechar seletivo’.
 _**Obs:** selecionando o dia desejado, aparecerá também **o ícone de ‘+’** (localizado no canto inferior direito do dia), para fazer **o ‘arraste para copiar’/’solte para colar’** para os dias futuros._
 
 ![imagem-20](/assets/guia-myhotel-calendario-360/imagem-20.webp)
