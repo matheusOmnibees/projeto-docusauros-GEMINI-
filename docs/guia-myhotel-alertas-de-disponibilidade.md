@@ -21,8 +21,6 @@ Nesta aba, será possível configurar uma **‘notificação’**, na qual o sis
 
 ## Configurações:
 
-![imagem-8](/assets/guia-myhotel-alertas-de-disponibilidade/imagem-8.webp)
-
 Ao clicar em **‘Adicionar Tipos de Quartos’**, será preciso selecionar os quartos que deseja configurar os ‘alertas de disponibilidade’ e clicar em ‘Ok’:
 
 ![imagem-6](/assets/guia-myhotel-alertas-de-disponibilidade/imagem-6.webp)
