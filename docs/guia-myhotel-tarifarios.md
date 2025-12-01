@@ -369,5 +369,3 @@ Para mais informações contate: o nosso atendimento online CHAT - ou através d
 ![imagem-67](/assets/guia-myhotel-tarifarios/imagem-67.webp)
 
 **Boas Vendas!!**
-
-![imagem-69](/assets/guia-myhotel-tarifarios/imagem-69.webp)
