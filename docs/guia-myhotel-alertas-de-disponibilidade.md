@@ -59,12 +59,8 @@ Para acessar o **‘Histórico de Alterações’** das configurações de ‘al
 
 Após finalizar as configurações, clique em **‘Salvar’** para que o sistema possa gravar as informações.
 
-![imagem-14](/assets/guia-myhotel-alertas-de-disponibilidade/imagem-14.webp)
-
 Para mais informações, contate: o nosso atendimento online CHAT - ou através do e-mail: [servicedesk@omnibees.com](mailto:servicedesk@omnibees.com)
 
 ![imagem-13](/assets/guia-myhotel-alertas-de-disponibilidade/imagem-13.webp)
 
 Boas Vendas!!
-
-![imagem-15](/assets/guia-myhotel-alertas-de-disponibilidade/imagem-15.webp)
