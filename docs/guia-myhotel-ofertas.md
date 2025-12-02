@@ -41,6 +41,7 @@ Para acessar a aba de Ofertas, clique em: **Menu de Navegação > Gestão > Tari
 ## 1. Criar Novo
 
 Clique no botão "**Criar Novo**" e preencha os campos exibidos na imagem a seguir:
+
 Para todos os tipos de ofertas, será preciso preencher os campos de “Detalhes Principais”:
 
 *   **Nome**: insira o nome da oferta.
