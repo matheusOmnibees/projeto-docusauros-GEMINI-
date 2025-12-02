@@ -89,15 +89,17 @@ Para os tarifários com o ‘Tipo de Disponibilidade: Tarifário ou Tarifário c
 ![imagem-21](/assets/guia-myhotel-calendario-de-precos/imagem-21.webp)
 
 - ‘<u>Fechar/Abrir Vendas</u>’:
-- ‘<u>Informação da Tarifa</u>’: informando os extras, as taxas, as ofertas e os canais que foram atribuídos ao tarifário:
 
 ![imagem-22](/assets/guia-myhotel-calendario-de-precos/imagem-22.webp)
+
+- ‘<u>Informação da Tarifa</u>’: informando os extras, as taxas, as ofertas e os canais que foram atribuídos ao tarifário:
 
 ![imagem-23](/assets/guia-myhotel-calendario-de-precos/imagem-23.webp)
 
 Após realizar a atualização das informações, clique em ‘**Salvar**’.
 - **Fechar este(s) dias(s):** aplicar fecho de vendas para o dia ou período selecionado.
 - **Abrir este(s) dia(s):** aplicar abertura de vendas para o dia ou período selecionado.
+
 
 ### IMPORTANTE SABER
 
