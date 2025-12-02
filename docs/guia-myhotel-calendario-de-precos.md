@@ -108,7 +108,7 @@ Após realizar a atualização das informações, clique em ‘**Salvar**’.
 ![imagem-24](/assets/guia-myhotel-calendario-de-precos/imagem-24.webp)
 
 
-** OU SERÁ POSSÍVEL CLICAR COM O BOTÃO DIREITO DO MOUSE SOBRE UM DIA, PARA TER ACESSO AO BOTÃO ‘EDITAR’:**
+**OU SERÁ POSSÍVEL CLICAR COM O BOTÃO DIREITO DO MOUSE SOBRE UM DIA, PARA TER ACESSO AO BOTÃO ‘EDITAR’:**
 
 ![imagem-25](/assets/guia-myhotel-calendario-de-precos/imagem-25.webp)
 
