@@ -43,8 +43,7 @@ Ao clicar no **botão ‘Atualizar’**, será possível fazer a atualização d
 
 ![imagem-8](/assets/guia-myhotel-inventario/imagem-8.webp)
 
-### 1. _Disponibilidade:_
-número de quartos disponíveis:
+**1. _Disponibilidade:_** número de quartos disponíveis:
 
 ![imagem-9](/assets/guia-myhotel-inventario/imagem-9.webp)
 
@@ -70,8 +69,7 @@ Para finalizar a atualização clique no botão **‘Salvar’**.
 
 ![imagem-12](/assets/guia-myhotel-inventario/imagem-12.webp)
 
-### 2. _Ocupação:_
-número de quartos ocupados:
+**2. _Ocupação:_** número de quartos ocupados:
 
 ![imagem-13](/assets/guia-myhotel-inventario/imagem-13.webp)
 
@@ -97,8 +95,7 @@ Para finalizar a atualização clique no botão **‘Salvar’**.
 
 ![imagem-16](/assets/guia-myhotel-inventario/imagem-16.webp)
 
-### 3. _Total de apartamentos por período:_
-quantidade total do inventário do hotel cadastrada para os tipos de quarto:
+**3. _Total de apartamentos por período:_** quantidade total do inventário do hotel cadastrada para os tipos de quarto:
 
 Ao **‘Atualizar Total de Apartamentos’**, informe:
 
