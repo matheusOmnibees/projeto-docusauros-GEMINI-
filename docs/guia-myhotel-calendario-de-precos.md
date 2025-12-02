@@ -29,7 +29,9 @@ Após selecionar o "tipo de quarto" do tarifário que deseja consultar, é impor
 
 ![imagem-7](/assets/guia-myhotel-calendario-de-precos/imagem-7.webp)
 
+
 **1. TARIFAS E PACOTE:** nesta lista, serão exibidos os tarifários e pacotes criados pelo hotel (para tarifários do tipo pacote, o sistema irá identificá-los com “[P]” antes do nome do tarifário):
+
 
 ![imagem-9](/assets/guia-myhotel-calendario-de-precos/imagem-9.webp)
 
@@ -37,13 +39,16 @@ Após selecionar o "tipo de quarto" do tarifário que deseja consultar, é impor
 
 ![imagem-10](/assets/guia-myhotel-calendario-de-precos/imagem-10.webp)
 
+
 **3. ORDENAR POR:** será possível ordenar a lista de tarifas e pacotes por: 'Mais recentes no topo', 'Mais antigas no topo', 'Ordenar de A-Z' e 'Ordenar de Z-A':
 
 ![imagem-11](/assets/guia-myhotel-calendario-de-precos/imagem-11.webp)
 
+
 **4. PREÇOS PARA:** escolha o número de PAX (Adultos e Crianças) de acordo com a ocupação do tipo de quarto e veja o preço cadastrado:
 
 ![imagem-12](/assets/guia-myhotel-calendario-de-precos/imagem-12.webp)
+
 
 **5. MÊS:** selecione o mês que deseja consultar informações ou utilize as setas de ‘avançar ou retornar’:
 
@@ -53,9 +58,11 @@ Após selecionar o "tipo de quarto" do tarifário que deseja consultar, é impor
 
 ![imagem-14](/assets/guia-myhotel-calendario-de-precos/imagem-14.webp)
 
+
 **7. VISUALIZAÇÃO 6 MESES:** irá exibir um calendário que possibilita visualizar até 6 meses.
 
 ![imagem-15](/assets/guia-myhotel-calendario-de-precos/imagem-15.webp)
+
 
 **8. INFORMAÇÕES:** ao estacionar o mouse neste botão, será exibida uma legenda com as cores relacionadas à disponibilidade do hotel - _‘Aberto para Vendas’, ‘Fechado para Vendas’, ‘Fechado Parcialmente para Vendas’ e ‘Allotment Indisponível’_ - e que aparecerão no calendário de preços:
 
@@ -68,6 +75,7 @@ Ao clicar em um dia, abrirá uma ‘janela de ‘informações’, mostrando pre
 
 ![imagem-17](/assets/guia-myhotel-calendario-de-precos/imagem-17.webp)
 
+
 - **Preços:** valor por ‘Adulto (PAX) ou Criança’ de acordo com a ocupação configurada para o tipo de quarto.
 - **Allotment:** quantidade de quartos disponíveis para vendas, distribuídos por ‘Allotment’ ou ‘Ocupação’.
 - **Restrições:** cadastro de ‘Mín. de Dias’, ‘Máx. de Dias’, ‘Estadia Certa’, ‘Dias de Antecedência’, ‘Fechado à Chegada’, ‘Fechado à Saída’ (‘Venda Parada’: informa se tem fecho de vendas aplicado para o dia).
@@ -76,18 +84,22 @@ E ao clicar no botão **‘Editar’** (sinalizado com ícone de lápis) no cant
 
 ![imagem-18](/assets/guia-myhotel-calendario-de-precos/imagem-18.webp)
 
+
 - **Editar**: será possível **‘Editar Detalhes da Tarifa / Tipo de Quarto’** para seguir com as atualizações de:
     - ‘<u>Preços do Quarto</u>’: aqui também será possível fazer atualizações de preços por ‘Preço Fixo’ ou ‘Variação de Preço’:
 
 ![imagem-19](/assets/guia-myhotel-calendario-de-precos/imagem-19.webp)
 
+
 Para os tarifários com o ‘Tipo de Disponibilidade: Tarifário ou Tarifário com impacto no inventário’, além de atualizar o preço, também será possível **atualizar o ‘allotment’**:
 
 ![imagem-20](/assets/guia-myhotel-calendario-de-precos/imagem-20.webp)
 
+
 - ‘<u>Restrições do Tarifário</u>’:
 
 ![imagem-21](/assets/guia-myhotel-calendario-de-precos/imagem-21.webp)
+
 
 - ‘<u>Fechar/Abrir Vendas</u>’:
 
@@ -96,6 +108,7 @@ Para os tarifários com o ‘Tipo de Disponibilidade: Tarifário ou Tarifário c
 - ‘<u>Informação da Tarifa</u>’: informando os extras, as taxas, as ofertas e os canais que foram atribuídos ao tarifário:
 
 ![imagem-23](/assets/guia-myhotel-calendario-de-precos/imagem-23.webp)
+
 
 Após realizar a atualização das informações, clique em ‘**Salvar**’.
 - **Fechar este(s) dias(s):** aplicar fecho de vendas para o dia ou período selecionado.
@@ -119,7 +132,5 @@ Após realizar a atualização das informações, clique em ‘**Salvar**’.
 ![imagem-26](/assets/guia-myhotel-calendario-de-precos/imagem-26.webp)
 
 Para mais informações, contate: o nosso atendimento online CHAT - ou através do e-mail: [servicedesk@omnibees.com](mailto:servicedesk@omnibees.com)
-
-![imagem-27](/assets/guia-myhotel-calendario-de-precos/imagem-27.webp)
 
 Boas Vendas!!
